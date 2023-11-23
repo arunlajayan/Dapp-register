@@ -1,0 +1,11 @@
+{
+	"difficulty": "0x400",
+	"alloc": {},
+	"gasLimit": "0xffffffff",
+	"config": {
+		"chainId": 4002,
+		"homesteadBlock": 0,
+		"eip155Block": 0,
+		"eip158Block": 0
+		}
+}

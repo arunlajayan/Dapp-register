@@ -1,0 +1,9 @@
+Details of Public chain deployment Ropsten:
+
+Deploying 'Person.sol'
+Transaction hash:    0x4cf18be34c22289e7716a45a575c4ce3842a99b2e86430cfc93c1996fa923ab
+Contract address:    0x628cC8C4245Fe3824F60fAD4427f5e86C82d3ba2
+
+Deploying 'Student.sol'
+Transaction hash:    0x8137beb0f52cdde651a8b9eeb3e0408607abb40def986bed212b5f74d81d5659
+Contract address:    0x172213071E0F9912c6932a54Aa3F983b6ea0367d
